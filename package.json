@@ -1,5 +1,6 @@
 {
-	"name": "haobin",
+	"name": "fcc-learn-npm-package-json",
+	"author": "haobin",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
